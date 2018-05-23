@@ -4,7 +4,7 @@
 1. Científicos 
 2. Ciudadanos concienciados con la Química sostenible
 3. Industrias
-* Grandes corporaciones
+  * Grandes corporaciones
 4. Organizaciones políticas
 
 ### Introducción
